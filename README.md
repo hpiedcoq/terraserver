@@ -2,11 +2,13 @@
 
 This is a personnal intent to slightly enhance the UI of the preview window of Terraserver in order to have a bigger usable area in you web browser.
 
-##Installation
+I mainly removed the dashed area and relocated some buttons.
+
+## Installation
 
 Open your firefox personnal profile : 
 
-###Linux
+### Linux
 
 Profile folders are located here:
 
@@ -14,7 +16,7 @@ Profile folders are located here:
 
 The ".mozilla" folder is a hidden folder. See this article for more information. To show hidden files in Nautilus (Gnome desktop's default file browser), choose "View -> Show Hidden Files".
 
-###Mac
+### Mac
 
 Profile folders are in one of these locations:
 
@@ -25,7 +27,7 @@ The tilde character (~) refers to the current user's Home folder, so ~/Library i
 
 For OS X 10.7 Lion and above, the ~/Library folder is hidden by default. See this article to make it appear. 
 
-###Windows
+### Windows
 
 On Windows 2000 and Windows XP, profile folders are in this location, by default:
 
