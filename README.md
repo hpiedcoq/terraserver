@@ -2,6 +2,8 @@
 
 This is a personnal intent to slightly enhance the UI of the preview window of Terraserver in order to have a bigger usable area in you web browser.
 
+##Installation
+
 Open your firefox personnal profile : 
 
 ###Linux
