@@ -59,7 +59,7 @@ Each folder in the "Profiles" folder (e.g., "xxxxxxxx.default") is a profile on 
 
 ## Installation
 
-Once locatedreate a new directory inside this directory called "Chrome" (please respect the lower C)
+Once located create a new directory inside this directory called "chrome" (please respect the lower C)
 
 Save the file here.
 
