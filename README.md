@@ -4,7 +4,7 @@ This is a personnal intent to slightly enhance the UI of the preview window of T
 
 I mainly removed the dashed area and relocated some buttons.
 
-## Installation
+## Pre-requisite : 
 
 Open your firefox personnal profile : 
 
@@ -57,9 +57,9 @@ To find a profile folder in the default location on Windows:
 
 Each folder in the "Profiles" folder (e.g., "xxxxxxxx.default") is a profile on your computer. 
 
+## Installation
 
-
-Create a new directory inside this directory called "Chrome" (please respect the lower C)
+Once locatedreate a new directory inside this directory called "Chrome" (please respect the lower C)
 
 Save the file here.
 
