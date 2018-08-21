@@ -1,0 +1,55 @@
+@-moz-document domain(terraserver.com) {
+/* Move the lat/long top left*/
+.latLong {
+	top:0px !important;
+	right: 85% !important;
+}
+
+
+/* Remove the dashed area in the middle of the screen */
+.mapOverlayLeft, .mapOverlayRight {
+    display: none;
+}
+
+.mapOverlayTop, .mapOverlayBottom{
+   display: none;
+}
+
+/* Remove the green purchase button in the middle-bottom of the screen */
+.purchaseBtn:active, .vicinityWrap, .purchaseOptionsWrap, .purchaseBtn:focus, .vicinityBtn:active, .vicinityBtn:focus, .vicinityBtn:hover, .vicinityBtn, .purchaseBtn{
+  	display:none;
+}
+/* Move the search bar on top left*/
+.searchForm {
+	left: 0px !important;
+	position: absolute !important;
+	z-index: 1;
+	top: 30px !important;
+}
+/* Move the bottom right controls to the left*/
+.leaflet-control-container {
+	position: absolute;
+	right: 1680px !important;
+	margin: 0;
+	height: 100%;
+}
+/*move down the zoom control to allow click on other buttons*/
+.leaflet-top {
+	top: 50px !important;
+}
+
+
+}
+
+@-moz-document domain("web.telegram.org") {
+  .tg_head_split,
+  .im_page_wrap,
+  .im_send_panel_wrap,
+  .im_send_form { 
+    max-width: unset; 
+  }
+  
+  .im_message_wrap { 
+    max-width: 100%;
+  }
+}
