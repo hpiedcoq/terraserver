@@ -53,4 +53,15 @@ To find a profile folder in the default location on Windows:
 
 Each folder in the "Profiles" folder (e.g., "xxxxxxxx.default") is a profile on your computer. 
 
-##Create
+
+
+Create a new directory inside this directory called "Chrome" (please respect the lower C)
+
+Save the file here.
+
+Restart your browser.
+Done.
+
+
+
+
